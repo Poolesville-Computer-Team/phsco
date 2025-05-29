@@ -9,6 +9,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-}
+  output: 'export',
+  basePath: '/phsco',
+  trailingSlash: true
+};
 
 export default nextConfig
