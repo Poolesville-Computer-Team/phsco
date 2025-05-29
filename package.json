@@ -2,10 +2,10 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Poolesville-Computer-Team.github.io/phsco",
+  "homepage": "https://poolesville-computer-team.github.io/phsco",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
